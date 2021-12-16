@@ -1,2 +1,2 @@
-# News-Reader
-A news reading Python Script
+# News Reader -A news reading Python Script
+
